@@ -1,0 +1,1 @@
+1. "Google Cloud Bigtable: petabyte-scale NoSQL database for scalable computation" https://www.youtube.com/watch?v=4yDf8cjBOis

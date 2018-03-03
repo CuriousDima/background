@@ -1,5 +1,5 @@
-1. "Divide and Conquer, Sorting and Searching, and
-Randomized Algorithms", Coursera, https://www.coursera.org/account/accomplishments/certificate/657XUYBXP3KA
+1. "Programming in C++", Stepik, https://stepik.org/certificate/c454c9220fddfd48173d95bc09c3529036d1b57e.pdf
+1. "Divide and Conquer, Sorting and Searching, and Randomized Algorithms", Coursera, https://www.coursera.org/account/accomplishments/certificate/657XUYBXP3KA
 1. "Introduction to Databases", Stanford Online: https://prod-cert-bucket.s3.amazonaws.com/downloads/c54f961fb9e54f7da7cdef608ecaa667/Certificate.pdf
 1. "Introduction to Statistics", Stepik: https://stepik.org/certificate/28250223b7c0633c23a9cb5bccd610208a039933.pdf
 1. "Introduction to Combinatorics", Coursera: https://www.coursera.org/account/accomplishments/certificate/2QNLWAA2L694

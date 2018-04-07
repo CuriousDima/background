@@ -1,3 +1,4 @@
+1. "Introduction to computer architecture. OS elements", Stepik, https://stepik.org/certificate/a3145aee53b05c47b3fa26df2a444a74baa84f5e.pdf
 1. "Programming in C++", Stepik, https://stepik.org/certificate/c454c9220fddfd48173d95bc09c3529036d1b57e.pdf
 1. "Divide and Conquer, Sorting and Searching, and Randomized Algorithms", Coursera, https://www.coursera.org/account/accomplishments/certificate/657XUYBXP3KA
 1. "Introduction to Databases", Stanford Online: https://prod-cert-bucket.s3.amazonaws.com/downloads/c54f961fb9e54f7da7cdef608ecaa667/Certificate.pdf

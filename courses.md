@@ -1,3 +1,4 @@
+1. "Introduction to Linux programming", Stepik, https://stepik.org/certificate/0d01c130c13b6200320020407cedacbd0769a35a.pdf
 1. "Introduction to computer architecture. OS elements", Stepik, https://stepik.org/certificate/a3145aee53b05c47b3fa26df2a444a74baa84f5e.pdf
 1. "Programming in C++", Stepik, https://stepik.org/certificate/c454c9220fddfd48173d95bc09c3529036d1b57e.pdf
 1. "Divide and Conquer, Sorting and Searching, and Randomized Algorithms", Coursera, https://www.coursera.org/account/accomplishments/certificate/657XUYBXP3KA

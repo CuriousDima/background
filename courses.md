@@ -1,3 +1,4 @@
+1. "Philosophy", Stepik, https://stepik.org/cert/154929
 1. "Linux Kernel modules development", Stepik, https://stepik.org/certificate/c596faa26b5711bd9def7cc8a1b81c0c22710397.pdf
 1. "Introduction to Linux programming", Stepik, https://stepik.org/certificate/0d01c130c13b6200320020407cedacbd0769a35a.pdf
 1. "Introduction to computer architecture. OS elements", Stepik, https://stepik.org/certificate/a3145aee53b05c47b3fa26df2a444a74baa84f5e.pdf

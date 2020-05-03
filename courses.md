@@ -1,3 +1,4 @@
+1. "Data Structures and Algorithms" Nanodegree Program, 
 1. "Python: Telegram-bot development", Stepik, https://stepik.org/cert/311831
 2. "An Introduction to Creating Data Visualizations with Python", Stanford Continuing Studies
 3. "Philosophy", Stepik, https://stepik.org/cert/154929

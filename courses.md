@@ -17,3 +17,4 @@
 16. "Getting and Cleaning Data", Coursera: https://www.coursera.org/account/accomplishments/certificate/KY6K8FMPYA
 17. "R Programming", Coursera: https://www.coursera.org/account/accomplishments/certificate/8KX2R54PRC
 18. "The Data Scientist’s Toolbox", Coursera: https://www.coursera.org/account/accomplishments/certificate/H682DTB8XM
+18. "Computing for Data Analysis", Coursera: https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970940~23251/pdf

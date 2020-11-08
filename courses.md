@@ -1,3 +1,4 @@
+1. "AI For Everyone", Coursera: https://www.coursera.org/account/accomplishments/certificate/3RAGQ4RMYUWQ
 1. "Data Structures and Algorithms" Nanodegree Program, Udacity, https://confirm.udacity.com/FTDD27S7
 1. "Python: Telegram-bot development", Stepik, https://stepik.org/cert/311831
 2. "An Introduction to Creating Data Visualizations with Python", Stanford Continuing Studies

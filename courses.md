@@ -1,5 +1,6 @@
-1. "Introduction to Kubernetes", EdX: https://courses.edx.org/certificates/2212cd4e435d42e6ab1408c24e08ada8
-1. "AI For Everyone", Coursera: https://www.coursera.org/account/accomplishments/certificate/3RAGQ4RMYUWQ
+1. "Mathematics for Machine Learning and Data Science Specialization", DeepLearning.AI: https://www.coursera.org/account/accomplishments/specialization/WKPU75RWINUN
+1. "Introduction to Kubernetes", The Linux Foundation: https://courses.edx.org/certificates/2212cd4e435d42e6ab1408c24e08ada8
+1. "AI For Everyone", DeepLearning.AI: https://www.coursera.org/account/accomplishments/certificate/3RAGQ4RMYUWQ
 1. "Data Structures and Algorithms" Nanodegree Program, Udacity, https://confirm.udacity.com/FTDD27S7
 1. "Python: Telegram-bot development", Stepik, https://stepik.org/cert/311831
 2. "An Introduction to Creating Data Visualizations with Python", Stanford Continuing Studies

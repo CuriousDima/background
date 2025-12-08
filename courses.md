@@ -1,3 +1,4 @@
+1. "Agentic AI", DeepLearning.AI: https://learn.deeplearning.ai/certificates/dbf315e2-3d38-4e7b-8cdc-170040904847
 1. "Mathematics for Machine Learning and Data Science Specialization", DeepLearning.AI: https://www.coursera.org/account/accomplishments/specialization/WKPU75RWINUN
 1. "Introduction to Kubernetes", The Linux Foundation: https://courses.edx.org/certificates/2212cd4e435d42e6ab1408c24e08ada8
 1. "AI For Everyone", DeepLearning.AI: https://www.coursera.org/account/accomplishments/certificate/3RAGQ4RMYUWQ

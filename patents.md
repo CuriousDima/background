@@ -1,0 +1,2 @@
+- "Controlling system load based on memory bandwidth" https://patents.google.com/patent/EP4050480B1/en
+- "Automatic generating of blockages in map information for use by a fleet of autonomous vehicles" https://patents.google.com/patent/US20240302184A1/en 
